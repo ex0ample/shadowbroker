@@ -6,6 +6,7 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **EBBISLAND (EBBSHAVE)** root RCE via RPC XDR overflow in Solaris 6, 7, 8, 9 & 10 (possibly newer) both SPARC and x86.
 - **ECHOWRECKER** remote Samba 3.0.x Linux exploit. 
 - **EASYBEE** appears to be an MDaemon email server vulnerability
+- **EASYFUN** EasyFun 2.2.0 Exploit for WDaemon / IIS MDaemon/WorldClient pre 9.5.6
 - **EASYPI** is an IBM Lotus Notes exploit  that gets detected as Stuxnet 
 - **EWOKFRENZY** is an exploit for IBM Lotus Domino 6.5.4 & 7.0.2
 - **EXPLODINGCAN** is an IIS 6.0 exploit that creates a remote backdoor
@@ -23,8 +24,14 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **ESTEEMAUDIT** is an RDP exploit and backdoor for Windows Server 2003
 - **ECLIPSEDWING** is an RCE exploit for the Server service in Windows Server 2008 and later (MS08-067)
 - **ETRE** is an exploit for IMail 8.10 to 8.22 
+- **ETCETERABLUE** is an exploit for IMail 7.04 to 8.05
 - **FUZZBUNCH** is an exploit framework, similar to MetaSploit
 - **ODDJOB** is an implant builder and C&C server that can deliver exploits for Windows 2000 and later, also not detected by any AV vendors 
+- **EXPIREDPAYCHECK** IIS6 exploit
+- **EAGERLEVER** NBT/SMB exploit for Windows NT4.0, 2000, XP SP1 & SP2, 2003 SP1 & Base Release
+- **EASYFUN** WordClient / IIS6.0 exploit
+- **ESSAYKEYNOTE** 
+- **EVADEFRED**
 
 
 # Utilities
@@ -35,3 +42,4 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **IISTOUCH** check if the running IIS version is vulnerable
 - **RPCOUTCH** get info about windows via RPC
 - **DOPU** used to connect to machines exploited by ETERNALCHAMPIONS
+- **NAMEDPIPETOUCH** Utility to test for a predefined list of named pipes, mostly AV detection. User can add checks for custom named pipes.
